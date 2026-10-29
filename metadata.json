@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Menu & Pemesanan Mandiri Restoran",
+  "description": "Sistem digital self-ordering restoran interaktif dengan menu kustom, keranjang pesanan, integrasi QRIS & kasir POS, Kitchen Display System (KDS), dan struk digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
